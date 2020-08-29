@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/futsu-linux":{"create":true,"owner":"vagrant","group":"vagrant","guestpath":"/home/vagrant/futsu-linux","hostpath":"/Users/tomo/tmp/futsu-no-linux-programing/futsu-linux","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/tomo/tmp/futsu-no-linux-programing","disabled":false,"__vagrantfile":true}}}
